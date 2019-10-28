@@ -6,3 +6,9 @@
 	path = doom-emacs
 	url = https://github.com/hlissner/doom-emacs
 	branch = develop
+[submodule "prelude"]
+	path = prelude
+	url = https://github.com/bbatsov/prelude.git
+[submodule "graphene"]
+	path = graphene
+	url = https://github.com/rdallasgray/graphene.git
