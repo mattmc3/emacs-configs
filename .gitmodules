@@ -12,3 +12,6 @@
 [submodule "graphene"]
 	path = graphene
 	url = https://github.com/rdallasgray/graphene.git
+[submodule "purcell"]
+	path = purcell
+	url = https://github.com/purcell/emacs.d.git
