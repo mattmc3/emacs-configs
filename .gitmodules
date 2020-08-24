@@ -15,3 +15,9 @@
 	path = spacemacs
 	url = https://github.com/syl20bnr/spacemacs.git
 	branch = develop
+[submodule "centaur"]
+	path = centaur
+	url = https://github.com/seagle0128/.emacs.d
+[submodule "tycho"]
+	path = tycho
+	url = https://github.com/tychoish/.emacs.d
