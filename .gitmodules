@@ -11,3 +11,7 @@
 [submodule "purcell"]
 	path = purcell
 	url = https://github.com/purcell/emacs.d.git
+[submodule "spacemacs"]
+	path = spacemacs
+	url = https://github.com/syl20bnr/spacemacs.git
+	branch = develop
