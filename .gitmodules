@@ -21,3 +21,6 @@
 [submodule "tycho"]
 	path = tycho
 	url = https://github.com/tychoish/.emacs.d
+[submodule "nano"]
+	path = nano
+	url = https://github.com/rougier/nano-emacs
