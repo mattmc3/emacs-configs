@@ -24,3 +24,7 @@
 [submodule "nano"]
 	path = nano
 	url = https://github.com/rougier/nano-emacs
+[submodule "sacha-chua"]
+	path = sacha-chua
+	url = https://github.com/sachac/.emacs.d
+	branch = gh-pages
